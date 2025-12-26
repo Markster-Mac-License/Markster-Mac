@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/51337/l/markster-logo.png?v=1669703262" width="200" alt="Markster macOS application icon"><br>
+ <img src="https://insmac.org/uploads/posts/2018-03/1520518514_markster.png" width="200" alt="Markster macOS application icon"><br>
  <a href="https://app-quick-app.github.io/.github/Markster">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Markster macOS page">
  </a><br><br>
